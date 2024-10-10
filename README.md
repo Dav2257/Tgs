@@ -15,7 +15,7 @@
   <tr>
     <td>Nasi Goreng</td>
     <td>Rp20.000</td>
-    <td>![Gambar Nasi Goreng](https://github.com/Dav2257/Tgs/issues/1#issue-2579399828?raw=true)</td>
+    <td>![Gambar Nasi Goreng](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe_EUhoGIORQXNl5IpWvZAiZQzKPWMjpp_czPq0Xc40cgZWBdsffaF6kIR&s=10)</td>
   </tr>
   <tr>
     <td>Mie Ayam</td>
