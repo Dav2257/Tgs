@@ -75,6 +75,7 @@
     <p>Jl. Milik Saya No. 123</p>
     <p>Telepon: (021) 123456789</p>
     <p>Email: Cangkruk@WOW.com</p>
+    <a href="https://maps.app.goo.gl/4QPAX2jggGuk3tPSA">Kunjungi Tempat</a>
     <footer>
         <p>&copy; 2023 Cangkruk. All rights reserved.</p>
     </footer>
